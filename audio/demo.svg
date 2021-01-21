@@ -1,0 +1,50 @@
+<section data-copyright="hua-bang" style="overflow: hidden; line-height: 0; display: block;">
+    <section name="main" style="overflow:hidden;line-height:0;display: block;">
+        <svg style="overflow:hidden;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklmialmppsndp5ORa1OOD8fia5icia93ibzMx5ox0N8BdcNU0BnLyyibia6Hwvbtiaiaao2mGFPKktnzNRVyVIw/0?wx_fmt=png&quot;);" viewBox="0 0 1000 1856" xmlns="http://www.w3.org/2000/svg;background-size:100%;background-repeat:no-repeat;">
+            <g>
+                <g name="initial-image-and-audio">
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="0">
+                        <svg style="background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklmialmppsndp5ORa1OOD8fia5aKJw7TZcJtouYTUeiaiasVtywOtU2iaokl4lHoT68SJAL2nQichFZJeHibw/0?wx_fmt=png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1856" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="audio" width="100%" height="100%" x="0" y="0">
+                        <section style="overflow:hidden;pointer-events: visiblePainted;opacity:0;transform: scale(86) translate(-465px,-9px);">
+                            <section>
+                                <section class="wx-edui-media-wrp custom_select_card_wrp">
+                                    <section class="js_editor_qqmusic qqmusic_iframe res_iframe js_uneditable custom_select_card" musicid="207323048" mid="001uxKNp3a7Qkv" albumurl="https://y.gtimg.cn/music/photo_new/T002R68x68M000001L7UIu3GXVtT.jpg" audiourl="http://isure6.stream.qqmusic.qq.com/C200000SCo0V0kjCdg.m4a?guid=2000001731&amp;vkey=AC352C460A45C1517AF1002A3E0A558A6507FB37CDF7F69D87B15737792DCBDF08EC7EB8EB72C6F37862462239605AD4D26FE2EF204645D5&amp;uin=&amp;fromtag=50" music_name="像风一样" singer="薛之谦&nbsp;-&nbsp;渡&nbsp;The&nbsp;Crossing" play_length="255" src="/cgi-bin/readtemplate?t=tmpl/qqmusic_tmpl&amp;singer=%E8%96%9B%E4%B9%8B%E8%B0%A6%20-%20%E6%B8%A1%20The%20Crossing&amp;music_name=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7&amp;albumurl=https%3A%2F%2Fy.gtimg.cn%2Fmusic%2Fphoto_new%2FT002R68x68M000001L7UIu3GXVtT.jpg&amp;musictype=1" musictype="1" otherid="001uxKNp3a7Qkv" albumid="001L7UIu3GXVtT" jumpurlkey="" data-pluginname="insertaudio" contenteditable="false">
+                                        <section class="music_card appmsg_card_context appmsg_card_active">
+                                            <section class="music_card_bd">
+                                                <strong class="music_card_title">像风一样</strong>
+                                                <section class="music_card_desc">薛之谦 - 渡 The Crossing</section>
+                                                <span class="music_card_source "></span>
+                                            </section>
+                                            <span class="music_card_ft">
+                                                <i class="weui-play-btn"></i>
+                                                <img class="music_card_thumb js_nocatch js_noimgpopup js_noimgselected" src="https://y.gtimg.cn/music/photo_new/T002R90x90M000001L7UIu3GXVtT.jpg" data-ratio="1" data-w="90">
+                                                    <!--音乐封面图-->
+                                            </span>
+                                            <section class="pages_mask_msg js_mask" style="display:none;">
+                                                该音乐因版权失效无法播放，请
+                                                <a href="javascript:;">更换音乐</a>
+                                            </section>
+                                        </section>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </foreignObject>
+                    <animate attributeName="opacity" begin="touchstart" dur="0.5s" values="1;0" fill="freeze" restart="never">
+                        <set attributeName="visibility" from="visible" to="hidden" begin="touchstart"></set>
+                    </animate>
+                </g>
+            </g>
+        </svg>
+    </section>
+    <section name="mask" style="height: 0px;line-height: 0;display: block;transform: rotate(180deg);pointer-events: none;">
+        <svg style="transform: rotate(180deg);" viewBox="0 0 1000 1856" xmlns="http://www.w3.org/2000/svg">
+            <rect width="30%" height="100%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="75%" width="25%" height="100%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="30%" width="45%" height="60%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="30%" y="90%" width="45%" height="10%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+        </svg>
+    </section>
+</section>
