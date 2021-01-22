@@ -1,0 +1,31 @@
+<section data-copyright="hua-bang">
+    <svg style="box-sizing:border-box;pointer-events:painted;display:inline-block;width: 100%;vertical-align: top;cr:ipb;margin-top: -1px;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/0PwtZRLMe_Qc3V.png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;pointer-events: none;" viewbox="0 0 1000 1600">
+        <g>
+            <animatetransform attributename="transform" type="translate" values="0 0;-2000 0" fill="freeze" begin="click" dur="0.01s" restart="never"></animatetransform>
+            <rect x="20%" y="50%" width="60%" height="15%" opacity="0" style="pointer-events: painted;"></rect>
+            <g name="图片区">
+                <animatetransform attributename="transform" type="translate" values="0 0;0 -3000;0 -6000;0 -9000;0 -12000" repeatcount="indefinite" fill="freeze" begin="1s" dur="2s" calcmode="discrete" end="click"></animatetransform>
+                <g transform="translate(2000 0)">
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="0">
+                        <svg style="background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/0tODYT33w_crWz.png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1600" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="3000">
+                        <svg style="background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/0XyY439Hx_qLDv.png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1600" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="6000">
+                        <svg style="background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/0pLJOcfJH_2bQY.png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1600" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="9000">
+                        <svg style="background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/0gmxHddN2_Bk84.png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1600" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="12000">
+                        <svg style="background-image: url(&quot;https://135editor.cdn.bcebos.com/files/users/549/5499944/202101/03KgCC8ev_Pspu.png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1600" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <rect width="1000" height="13600" opacity="0" style="pointer-events: painted;">
+                        <animatetransform attributename="transform" type="translate" values="0 0;-2000 0" fill="freeze" begin="click" dur="0.01s" restart="never"></animatetransform>
+                    </rect>
+                </g>
+            </g>
+        </g>
+    </svg>
+</section>
