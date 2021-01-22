@@ -1,0 +1,71 @@
+<section data-copyright="hua-bang" style="overflow: hidden; line-height: 0; display: block;">
+    <section name="main" style="overflow:hidden;line-height:0;display: block;">
+        <svg style="overflow:hidden;background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklmialmppsndp5ORa1OOD8fia5icia93ibzMx5ox0N8BdcNU0BnLyyibia6Hwvbtiaiaao2mGFPKktnzNRVyVIw/0?wx_fmt=png&quot;);" viewBox="0 0 1000 1856" xmlns="http://www.w3.org/2000/svg;background-size:100%;background-repeat:no-repeat;">
+            <g>
+                <g name="initial-image-and-audio">
+                    <foreignObject name="initial-image" width="100%" height="100%" x="0" y="0">
+                        <svg style="background-image: url(&quot;https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklmialmppsndp5ORa1OOD8fia5aKJw7TZcJtouYTUeiaiasVtywOtU2iaokl4lHoT68SJAL2nQichFZJeHibw/0?wx_fmt=png&quot;);background-position: 0% 0%;background-repeat: no-repeat;background-size:cover;pointer-events: none;" version="1.1" viewBox="0 0 1000 1856" x="0px" y="0px"></svg>
+                    </foreignObject>
+                    <foreignObject name="audio" width="100%" height="100%" x="0" y="0">
+                        <section style="overflow:hidden;pointer-events: visiblePainted;opacity:0;transform: scale(86) translate(-465px,-9px);">
+                            <section>
+                                <section class="wx-edui-media-wrp custom_select_card_wrp">
+                                    <section class="js_editor_audio audio_iframe res_iframe js_uneditable custom_select_card" src="/cgi-bin/readtemplate?t=tmpl/audio_tmpl&amp;name=%E8%96%9B%E4%B9%8B%E8%B0%A6%20-%20%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9.mp3&amp;play_length=04:17" isaac2="1" low_size="504.08" source_size="504.1" high_size="2009.93" name="薛之谦&nbsp;-&nbsp;天外来物.mp3" play_length="257000" voice_encode_fileid="MzU3ODk2MzY0MV8xMDAwMDI4MzU=" data-topic_id="" data-topic_name="" data-pluginname="insertaudio" contenteditable="false" style="margin-top: 50px;">
+                                        <!-- 图文类型的音频卡片 -->
+                                        <mpchecktext contenteditable="false" id="1611245667700_0.5847073539290901"></mpchecktext>
+                                        <section class="appmsg_card_context appmsg_card_active audio_card js_audio_card">
+                                            <strong class="audio_card_title">薛之谦 - 天外来物.mp3</strong>
+                                            <span class="weui-flex">
+                                                <span class="weui-flex__item">
+                                                    <span class="audio_card_opr">
+                                                        <span class="audio_card_progress_wrp">
+                                                            <span class="audio_card_progress">
+                                                                <span class="audio_card_progress_inner"></span>
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                    <span class="audio_card_tips" aria-labelledby="时长">
+                                                        <em class="audio_card_length_current">00:00</em>
+                                                        <em class="audio_card_length_total">04:17</em>
+                                                    </span>
+                                                </span>
+                                                <span aria-labelledby="播放开关" class="audio_card_switch">
+                                                    <em class="weui-audio-btn" role="button"></em>
+                                                </span>
+                                            </span>
+                                            <span class="audio_album_null js_no_album">未加入话题</span>
+                                            <span class="audio_album_null js_album_name" style="display: none;"></span>
+                                            <span class="audio_action js_audio_action" style="display: none;">
+                                                <span class="audio_action_item js_replace_album" style="display: none;">
+                                                    <em class="audio_action_icon_switch"></em>
+                                                    修改话题
+                                                </span>
+                                                <span class="audio_action_item js_add_album">
+                                                    <em class="audio_action_icon_add"></em>
+                                                    添加话题
+                                                    <mpchecktext contenteditable="false" id="1611245667701_0.618560615854256"></mpchecktext>
+                                                </span>
+                                            </span>
+                                        </section>
+                                        <mpchecktext contenteditable="false" id="1611245667702_0.7598061307585255"></mpchecktext>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </foreignObject>
+                    <animate attributeName="opacity" begin="touchstart" dur="0.5s" values="1;0" fill="freeze" restart="never">
+                        <set attributeName="visibility" from="visible" to="hidden" begin="touchstart"></set>
+                    </animate>
+                </g>
+            </g>
+        </svg>
+    </section>
+    <section name="mask" style="opacity:0;height: 0px;line-height: 0;display: block;transform: rotate(180deg);pointer-events: none;">
+        <svg style="transform: rotate(180deg);" viewBox="0 0 1000 1856" xmlns="http://www.w3.org/2000/svg">
+            <rect width="30%" height="100%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="75%" width="25%" height="100%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="30%" width="45%" height="60%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+            <rect x="30%" y="90%" width="45%" height="10%" style="fill:rgb(0,0,255);pointer-events: visible;"></rect>
+        </svg>
+    </section>
+</section>
