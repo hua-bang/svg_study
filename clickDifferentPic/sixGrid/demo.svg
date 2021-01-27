@@ -1,7 +1,7 @@
 <section data-copyright="hua-bang" style="overflow: hidden; line-height: 0; display: block;">
     <section name="hiden_pic" style="height:0">
         <section name="row1" style="height:0">
-            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;">
+            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;transform:scale(1);">
                 <section label="hidden-pic-1-area" style="width:33.3%;overflow:hidden;display:flex">
                     <section style="width:50%">
                         <img src="https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklnz41Feq07ZNn91otDWpe1Vd3lsk1JicZ2lSQgylYicekh3YaZk4N88ducP2EGRBJcS2iaZJFPGf3kog/0?wx_fmt=png" alt="" />
@@ -30,7 +30,7 @@
         </section>
         <svg viewBox="0 0 1500 400" style="pointer-events: none;"></svg>
         <section name="row1-between-row2" style="height:0">
-            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;">
+            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;transform:scale(1);">
                 <section label="hidden-pic-1-area" style="width:33.3%;overflow:hidden;display:flex">
                     <section style="width:50%">
                         <img src="https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklnz41Feq07ZNn91otDWpe1Vd3lsk1JicZ2lSQgylYicekh3YaZk4N88ducP2EGRBJcS2iaZJFPGf3kog/0?wx_fmt=png" alt="" />
@@ -59,7 +59,7 @@
         </section>
         <svg viewBox="0 0 1500 100" style="pointer-events: none;"></svg>
         <section name="row2" style="height:0">
-            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;">
+            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;transform:scale(1);">
                 <section label="hidden-pic-1-area" style="width:33.3%;overflow:hidden;display:flex">
                     <section style="width:50%">
                         <img src="https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklnz41Feq07ZNn91otDWpe1VrWOgHkRLWHTgcYLcEtaKXq5HQXnghFhdiaNJUwP8TCChA6XQ6l57AVg/0?wx_fmt=png" alt="" />
@@ -88,7 +88,7 @@
         </section>
         <svg viewBox="0 0 1500 100" style="pointer-events: none;"></svg>
         <section name="end" style="height:0">
-            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;">
+            <section style="max-width: 100%;vertical-align: middle;display: flex;line-height: 0;box-sizing: border-box;pointer-events: painted;transform:scale(1);">
                 <section label="hidden-pic-1-area" style="width:33.3%;overflow:hidden;display:flex">
                     <section style="width:50%">
                         <img src="https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklnz41Feq07ZNn91otDWpe1VrWOgHkRLWHTgcYLcEtaKXq5HQXnghFhdiaNJUwP8TCChA6XQ6l57AVg/0?wx_fmt=png" alt="" />
@@ -116,7 +116,7 @@
             </section>
         </section>
     </section>
-    <section name="display_pic" style="pointer-events: none;">
+    <section name="display_pic" style="pointer-events: none;transform:scale(1);">
         <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
             <img src="https://mmbiz.qpic.cn/mmbiz_png/oicCVVQ8dklnz41Feq07ZNn91otDWpe1Vqc8gesrICxPIsvBa4W8D7NVgCic6yibRqoObKZrA1SE9APmGrQEVFLag/0?wx_fmt=png" alt="" />
         </section>
