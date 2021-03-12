@@ -1,0 +1,16 @@
+<section>
+    <svg width="375" viewBox="0 0 100 100" pointer-events="none">
+        <animate attributeName="height" to="500" calcMode="discrete" fill="freeze" restart="whenNotActive" dur="0.0000001s" begin="click"></animate>
+        <animate attributeName="height" to="1000" calcMode="discrete" fill="freeze" restart="whenNotActive" dur="0.0000001s" begin="touchstart"></animate>
+        <g>
+            <rect x="20" y="20" height="10" width="10" pointer-events="painted" fill="red">
+                <animate attributeName="fill" to="blue" begin="click" restart="never"></animate>
+            </rect>
+        </g>
+        <g>
+            <rect x="60" y="60" height="10" width="10" pointer-events="painted" fill="blue">
+                <animate attributeName="height" to="20" begin="touchstart" restart="never"></animate>
+            </rect>
+        </g>
+    </svg>
+</section>

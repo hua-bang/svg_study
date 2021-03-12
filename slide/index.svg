@@ -1,0 +1,29 @@
+<section>
+    <section style="display: inline-block;width: 100%;overflow-x:scroll;">
+        <section style="width: 300%;max-width: 300% !important;white-space: nowrap;font-size: 0;line-height: 0;">
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7IjpOhGMB3cSzCroSxibTicBWGcs628IPPge3dKBjE5HcgGyNQLDLq6d1Yg/640?wx_fmt=png" />
+            </section>
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7IjH1F89thWmQdk7a6Ner7HRlmPTacwIII6c4MddibuR7BPphuTQ4cSFpA/640?wx_fmt=png" />
+            </section>
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7Ij1MntbsM5nBwiaeLVlsqrevVut5mOt9IMFwRzyf5n6ybibUczJNSJeBng/640?wx_fmt=png" />
+            </section>
+        </section>
+    </section>
+    <p>升级</p>
+    <section style="display: inline-block;width: 100%;overflow-x:scroll;scroll-snap-type: x mandatory;">
+        <section style="width: 300%;max-width: 300% !important;white-space: nowrap;font-size: 0;line-height: 0;">
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7IjpOhGMB3cSzCroSxibTicBWGcs628IPPge3dKBjE5HcgGyNQLDLq6d1Yg/640?wx_fmt=png" />
+            </section>
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7IjH1F89thWmQdk7a6Ner7HRlmPTacwIII6c4MddibuR7BPphuTQ4cSFpA/640?wx_fmt=png" />
+            </section>
+            <section style="display: inline-block;vertical-align: top;width: 33.333333333333336%;scroll-snap-align: center;">
+                <img src="https://mmbiz.qpic.cn/mmbiz_png/5ichCnWH60HGibXIpghyiak2hMeXQATT7Ij1MntbsM5nBwiaeLVlsqrevVut5mOt9IMFwRzyf5n6ybibUczJNSJeBng/640?wx_fmt=png" />
+            </section>
+        </section>
+    </section>
+</section>

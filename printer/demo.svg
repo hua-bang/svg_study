@@ -1,0 +1,25 @@
+<section style="pointer-events:none;">
+    <section style="font-size:0;">
+        <section style="margin-top:-1px;transform:scale(1);">
+            <svg style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsHicJJjiaGuCw42A0eaSyklmj1TnmoRcuUN4UbnnL1BGJuRyiaoJw8zaUng/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 800 529">
+                <animate attributename="height" begin="click + 1" dur="0.75s" values="100;2000" restart="never" fill="freeze"></animate>
+                <g>
+                    <animateTransform attributeName="transform" type="translate" values="0 0;0 300" fill="freeze" dur="1" calcMode="linear" additive="sum" begin="click" restart="never"></animateTransform>
+                    <g transform="translate(0 -300)">
+                        <foreignObject width="800" height="529">
+                            <svg style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsHfTx2o0zz0SVLVBphBR9ib3ndK8o0BYdBXia5JSCmOQiadOoDpaS1K44aA/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 800 529">
+                            </svg>
+                        </foreignObject>
+                        <g transform="translate(0 300)">
+                            <animateTransform attributeName="transform" type="translate" values="2000 0" fill="freeze" begin="click" restart="never"></animateTransform>
+                            <rect fill="red" opacity="0" width="100%" height="38%" x="0" y="0" style="pointer-events: painted;"></rect>
+                        </g>
+                    </g>
+                </g>
+                <foreignObject width="800" height="201">
+                    <svg  style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsH3S3jM6ovtny4yuXENgveFia28tHXVSD83cL8E7UNT1Rdic5b4Kc2FErg/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 800 201"></svg>
+                </foreignObject>
+            </svg>
+        </section>
+    </section>
+</section>

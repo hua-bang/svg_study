@@ -1,0 +1,25 @@
+<section style="pointer-events:none;" enable-z-optimization="true">
+    <section style="font-size:0;">
+        <section style="margin-top:-1px;transform:scale(1);">
+            <svg data-i-copyright="iPaiban 超级玛丽" icopr="" style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsHicJJjiaGuCw42A0eaSyklmj1TnmoRcuUN4UbnnL1BGJuRyiaoJw8zaUng/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 343 226">
+                <g>
+                    <g>
+                        <animateTransform attributeName="transform" type="translate" values="0 0;0 140" fill="freeze" dur="1" calcMode="linear" additive="sum" begin="click" restart="never"></animateTransform>
+                        <g transform="translate(0 -140)">
+                            <foreignObject width="343" height="226">
+                                <svg data-i-copyright="iPaiban 超级玛丽" icopr="" style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsHfTx2o0zz0SVLVBphBR9ib3ndK8o0BYdBXia5JSCmOQiadOoDpaS1K44aA/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 343 226"></svg>
+                            </foreignObject>
+                            <g transform="translate(0 140)">
+                                <animateTransform attributeName="transform" type="translate" values="2000 0" fill="freeze" begin="click" restart="never"></animateTransform>
+                                <rect fill="red" opacity="0" width="114" height="114" x="112" y="-18" style="pointer-events: painted;"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <foreignObject width="343" height="226">
+                    <svg data-i-copyright="iPaiban 超级玛丽" icopr="" style="pointer-events: none;display:inline-block;width: 100%;vertical-align: top;cr:ipb;background-size: cover;background-repeat: no-repeat;background-image: url(&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/Z0O0LSJ3yU2OU1ib7MzScp7dsKX8YSRsH3S3jM6ovtny4yuXENgveFia28tHXVSD83cL8E7UNT1Rdic5b4Kc2FErg/640?wx_fmt=png&quot;);-webkit-tap-highlight-color: transparent;user-select: none;" viewBox="0 0 343 86"></svg>
+                </foreignObject>
+            </svg>
+        </section>
+    </section>
+</section>
